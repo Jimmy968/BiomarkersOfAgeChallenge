@@ -1,0 +1,1 @@
+conda create -n BoA python bioconda::bioconductor-sesamedata bioconda::bioconductor-sesame conda-forge::r-base bioconda::bioconductor-experimenthub conda-forge::rpy2 anaconda::numpy anaconda::pandas
